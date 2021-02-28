@@ -1,2 +1,2 @@
-# Basic-Verilog
+# Verilog
 Basic Verilog Code for Small Projects
